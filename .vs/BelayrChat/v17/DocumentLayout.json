@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,20 +98,27 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebac7c74-3b95-5b1e-b483-338a08cbadf2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BelayrChat",
+              "Title": "BelayrChat.csproj",
               "DocumentMoniker": "C:\\uczelnia\\Chat\\BelayrChat\\BelayrChat\\BelayrChat.csproj",
               "RelativeDocumentMoniker": "BelayrChat\\BelayrChat.csproj",
               "ToolTip": "C:\\uczelnia\\Chat\\BelayrChat\\BelayrChat\\BelayrChat.csproj",
               "RelativeToolTip": "BelayrChat\\BelayrChat.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T22:35:20.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T22:35:20.238Z"
             },
             {
               "$type": "Document",
@@ -123,8 +130,7 @@
               "RelativeToolTip": "BelayrChat\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T14:07:52.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T14:07:52.443Z"
             },
             {
               "$type": "Document",
@@ -136,8 +142,7 @@
               "RelativeToolTip": "BelayrChat\\Models\\UserRoomConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:32:45.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T18:32:45.469Z"
             },
             {
               "$type": "Document",
@@ -147,7 +152,7 @@
               "RelativeDocumentMoniker": "BelayrChat\\Hubs\\ChatHub.cs",
               "ToolTip": "C:\\uczelnia\\Chat\\BelayrChat\\BelayrChat\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "BelayrChat\\Hubs\\ChatHub.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T18:27:34.55Z",
               "EditorCaption": ""
@@ -162,8 +167,7 @@
               "RelativeToolTip": "BelayrChat\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:21:43.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T18:21:43.909Z"
             }
           ]
         }

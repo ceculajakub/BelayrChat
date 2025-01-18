@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelayrChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6d05848a041a75816dc3f4f706d6f489d295b52")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelayrChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelayrChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -54,3 +54,4 @@ C:\uczelnia\Chat\BelayrChat\BelayrChat\bin\Debug\net8.0\Microsoft.Extensions.Opt
 C:\uczelnia\Chat\BelayrChat\BelayrChat\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
 C:\uczelnia\Chat\BelayrChat\BelayrChat\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\uczelnia\Chat\BelayrChat\BelayrChat\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\uczelnia\Chat\BelayrChat\BelayrChat\obj\Debug\net8.0\BelayrChat.sourcelink.json

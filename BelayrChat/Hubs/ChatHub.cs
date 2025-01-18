@@ -17,6 +17,8 @@ namespace BelayrChat.Hubs
         {
             await Groups.AddToGroupAsync(Context.ConnectionId, connection.Room);
             _connection[Context.ConnectionId] = connection;
+            await Clients.Group(connection.Room).SendAsync("UserJoined", connection.User);
+
             await Clients.Group(connection.Room)
                 .SendAsync("ReceiveMessage", "Belayr Bot", $"{connection.User} dołączył do pokoju", DateTime.Now);
             await SendConnectedUser(connection.Room);
@@ -39,6 +41,8 @@ namespace BelayrChat.Hubs
             }
 
             _connection.Remove(Context.ConnectionId);
+            Clients.Group(userRoomConnection.Room).SendAsync("UserLeft", userRoomConnection.User);
+
             Clients.Group(userRoomConnection.Room).SendAsync("ReceiveMessage", "Belayr Bot",
                 $"{userRoomConnection.User} opuścił pokój", DateTime.Now);
             SendConnectedUser(userRoomConnection.Room);
